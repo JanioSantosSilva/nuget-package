@@ -5,12 +5,12 @@
     <RootNamespace>demo_nuget</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <PackageId>demo-nuget</PackageId>
+    <PackageId>nuget-package</PackageId>
     <Version>1.0.0</Version>
-    <Authors>demo</Authors>
-    <Company>demo</Company>
-    <Description>demo</Description>
-    <RepositoryUrl>https://github.com/demolinkedin</RepositoryUrl>
+    <Authors>nuget</Authors>
+    <Company>nuget</Company>
+    <Description>nuget</Description>
+    <RepositoryUrl>https://github.com/JanioSantosSilva</RepositoryUrl>
   </PropertyGroup>
 
 </Project>
